@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gsap-ag-land/static/css/main.2074b1e4.chunk.css",
+    "main.js": "/gsap-ag-land/static/js/main.a9a000fc.chunk.js",
+    "main.js.map": "/gsap-ag-land/static/js/main.a9a000fc.chunk.js.map",
+    "runtime-main.js": "/gsap-ag-land/static/js/runtime-main.ae54d961.js",
+    "runtime-main.js.map": "/gsap-ag-land/static/js/runtime-main.ae54d961.js.map",
+    "static/js/2.df87e29a.chunk.js": "/gsap-ag-land/static/js/2.df87e29a.chunk.js",
+    "static/js/2.df87e29a.chunk.js.map": "/gsap-ag-land/static/js/2.df87e29a.chunk.js.map",
+    "static/js/3.1dbabad0.chunk.js": "/gsap-ag-land/static/js/3.1dbabad0.chunk.js",
+    "static/js/3.1dbabad0.chunk.js.map": "/gsap-ag-land/static/js/3.1dbabad0.chunk.js.map",
+    "index.html": "/gsap-ag-land/index.html",
+    "static/css/main.2074b1e4.chunk.css.map": "/gsap-ag-land/static/css/main.2074b1e4.chunk.css.map",
+    "static/js/2.df87e29a.chunk.js.LICENSE.txt": "/gsap-ag-land/static/js/2.df87e29a.chunk.js.LICENSE.txt",
+    "static/media/ag.9d710782.jpg": "/gsap-ag-land/static/media/ag.9d710782.jpg",
+    "static/media/arrow-right.c8a3b3aa.svg": "/gsap-ag-land/static/media/arrow-right.c8a3b3aa.svg",
+    "static/media/girl.76f6c00d.webp": "/gsap-ag-land/static/media/girl.76f6c00d.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae54d961.js",
+    "static/js/2.df87e29a.chunk.js",
+    "static/css/main.2074b1e4.chunk.css",
+    "static/js/main.a9a000fc.chunk.js"
+  ]
+}
